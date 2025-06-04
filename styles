@@ -200,7 +200,7 @@ h4, h5, h6, .h4, .h5, .h6 {
     margin-bottom: 6rem;
     padding-top: 15rem;
     padding-bottom: 6rem;
-    background: url("../images/hero.jpg"), center center no-repeat;
+    background: url("../images/banner1.jpg"), center center no-repeat;
     background-size: cover;
 }
 
